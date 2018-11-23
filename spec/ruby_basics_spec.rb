@@ -65,4 +65,3 @@ describe "ruby" do
       expect(pizza_party("pepperoni")).to eq("pepperoni")
     end
   end
-
